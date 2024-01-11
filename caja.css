@@ -1,0 +1,39 @@
+.caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.contenedor{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55%;
+    height: 80vh;
+}
+.contenedor1{
+    background-color: blue;
+    border-radius: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 60vh;
+}
+.contenedor2{
+    background-color: green;
+    border-radius: 60%;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+
+*{
+    padding: 0 ;
+    margin: 0;
+}
